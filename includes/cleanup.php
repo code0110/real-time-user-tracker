@@ -1,0 +1,2 @@
+<?php
+// Auto-cleanup logic

@@ -1,0 +1,2 @@
+<?php
+// GeoIP location resolver
